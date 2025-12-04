@@ -37,8 +37,11 @@ Learning Malware Analysis
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Cobalt_Strike-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Cobalt strike" /<img src="https://img.shields.io/badge/Binary_Ninja-AA0000?style=for-the-badge&logo=codefactor&logoColor=white&color=000000" alt="Binary Ninja" />
-><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=socketdotio&logoColor=white&color=000000" alt="Nmap" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=socketdotio&logoColor=white&color=000000" alt="Nmap" />
 <img src="https://img.shields.io/badge/Sliver_C2-7E57C2?style=for-the-badge&logo=target&logoColor=white&color=000000" alt="Sliver C2" />
+<img src="https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logo=bloodhound&color=000000" alt="BloodHound" />
+<img src="https://img.shields.io/badge/MobSF-2E86C1?style=for-the-badge&logo=mobSF&color=000000" alt="MobSF" />
+
 
       
 
