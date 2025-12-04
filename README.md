@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-I'm Harsh, a Bug hunter, Security Researcher
+I'm Harsh, Bug hunter & Security Researcher
 
  ![AnonGIF](https://github.com/user-attachments/assets/32586e7b-1434-4ff3-87bd-e10fcb849b1a)
  
