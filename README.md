@@ -21,4 +21,13 @@ Learning Malware Analysis
 <svg xmlns="http://www.w3.org/2000/svg" width="125.25" height="28" role="img" aria-label="WIRESHARK"><title>WIRESHARK</title><g shape-rendering="crispEdges"><rect width="125.25" height="28" fill="#000000"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2lyZXNoYXJrPC90aXRsZT48cGF0aCBkPSJtMi45NSAwYy0xLjYyIDAtMi45NSAxLjMyLTIuOTUgMi45NXYxOC4xYzAgMS42MyAxLjMyIDIuOTUgMi45NSAyLjk1aDE4LjFjMS42MiAwIDIuOTUtMS4zMiAyLjk1LTIuOTV2LTE4LjFjLS4wMDAyNC0xLjYzLTEuMzItMi45NS0yLjk1LTIuOTV6bTAgMS4wOWgxOC4xYzEuMDQgMCAxLjg1LjgxOCAxLjg1IDEuODZ2MTRoLTUuMjdjLS4zMzUtLjc5Ni0yLjU3LTYuNDcuMjgzLTEwLjlhLjUxNi41MTcgMCAwIDAtLjQ0My0uNzk0Yy01LjI0LjA4MjctOC4yIDMuMTktOS43NCA2LjIxLTEuMzUgMi42NC0xLjYzIDQuOTEtMS42OSA1LjUzaC00Ljk1di0xNGMwLTEuMDQuODE3LTEuODYgMS44NS0xLjg2em0xMy42IDUuMjRjLTIuNjIgNS4yNC4yNDggMTEuNC4yNDggMTEuNGEuNTE2LjUxNyAwIDAgMCAuNDY5LjMwMWg1LjYydjMuMDVjMCAxLjA0LS44MTcgMS44Ni0xLjg1IDEuODZoLTE4LjFjLTEuMDQgMC0xLjg1LS44MTgtMS44NS0xLjg2di0zLjA1aDUuMzlhLjUxNi41MTcgMCAwIDAgLjUxNC0uNDc3cy4yMjYtMi44IDEuNjYtNS42MmMxLjM0LTIuNjIgMy42Ny01LjE3IDcuOTEtNS41N3oiLz48L3N2Zz4="/><text transform="scale(.1)" x="726.25" y="175" textLength="812.5" fill="#fff" font-weight="bold">WIRESHARK</text></g></svg>
 
 
-<img src="https://img.shields.io/badge/IDA%20PRO-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iI2ZmZiIvPjx0ZXh0IHg9IjMyIiB5PSIzOCIgZm9udC1mYW1pbHk9IkNvbnNvbGFzIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzAwMCI+SURBPC90ZXh0Pjwvc3ZnPg==" />
+
+
+
+
+![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-111111?style=for-the-badge&logo=cobaltstrike&logoColor=white)
+
+
+![IDA Pro](https://img.shields.io/badge/IDA%20PRO-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aW...==&logoColor=white)
+
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-880000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR...==)
