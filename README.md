@@ -8,7 +8,7 @@ I'm Harsh, a Bug hunter, Security Researcher
  ![AnonGIF](https://github.com/user-attachments/assets/32586e7b-1434-4ff3-87bd-e10fcb849b1a)
  
 ## Present Status
-Learning Cybersecurity & Red Team Stuff
+Learning Cybersecurity & Red Team Stuff <br>
 Learning Malware Analysis 
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
