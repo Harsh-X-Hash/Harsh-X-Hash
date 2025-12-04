@@ -52,7 +52,7 @@ Learning Malware Analysis
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       
-   <img src="https://img.shields.io/badge/Cobalt_Strike-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Cobalt Strike" />
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.hdegy.net%2Fsoftware%2Fhex-rays-ida-pro%2F&psig=AOvVaw3RAdhDxRrd63UoYECfgkgg&ust=1764929027651000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODKr47Xo5EDFQAAAAAdAAAAABAM&logo=windows-terminal&logoColor=white" alt="Cobalt Strike" />
 
   </div>
 </div>
