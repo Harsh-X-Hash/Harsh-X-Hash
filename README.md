@@ -12,15 +12,15 @@ Learning Cybersecurity & Red Team Stuff <br>
 Malware Analysis 
 
 ## Skills 
-Reverse engineering
-Web Pentesting
-Binary exploitation
-Web & Memory forensics
-Red Teaming
-Cryptography
-Prompt Injection
-Cloud Pentesting
-Social Engineering
+Reverse engineering <br>
+Web Pentesting <br>
+Binary exploitation <br>
+Web & Memory forensics <br>
+Red Teaming <br>
+Cryptography <br>
+Prompt Injection <br>
+Cloud Pentesting <br>
+Social Engineering <br>
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
