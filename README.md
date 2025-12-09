@@ -9,7 +9,18 @@ I'm Harsh, Bug hunter & Security Researcher
  
 ## Present Status
 Learning Cybersecurity & Red Team Stuff <br>
-Learning Malware Analysis 
+Malware Analysis 
+
+## Skills 
+Reverse engineering
+Web Pentesting
+Binary exploitation
+Web & Memory forensics
+Red Teaming
+Cryptography
+Prompt Injection
+Cloud Pentesting
+Social Engineering
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
